@@ -1,5 +1,7 @@
 # verify-npm-template-typescript
 
+[![Build Status](https://github.com/make-everything-simple/verify-npm-template-typescript/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/make-everything-simple/verify-npm-template-typescript/actions/workflows/ci.yml?query=branch%3Amain)
+
 Verify reusing the [npm-template-typescript](https://github.com/lengocduy/npm-template-typescript) to supports javascript developers who use npm to publish and share package quicker. Less time to setup utility tools to follow best-practices and more time on the core features of the package.
 
 ## Prerequisites
@@ -41,8 +43,8 @@ npm run prettier:format | yarn prettier:format
 ### Clone the repository
 
 ```bash
-git clone git@github.com:lengocduy/npm-template-typescript.git
-cd npm-template-typescript
+git clone git@github.com:make-everything-simple/verify-npm-template-typescript.git
+cd verify-npm-template-typescript
 npm install | yarn install
 ```
 
